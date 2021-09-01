@@ -1,0 +1,48 @@
+import {
+    Dialog,
+    Toast,
+    List,
+    PullRefresh,
+    Cell,
+    Calendar,
+    DatetimePicker,
+    Popup,
+    Switch,
+    Form,
+    Field,
+    CellGroup,
+    Button,
+    IndexBar,
+    IndexAnchor,
+    Search,
+    Image as VanImage,
+    Loading,
+    Tab, Tabs,
+    RadioGroup,
+    Radio 
+
+} from "vant";
+export default [
+    Dialog,
+    Toast,
+    List,
+    PullRefresh,
+    Cell,
+    Calendar,
+    DatetimePicker,
+    Popup,
+    Switch,
+    Form,
+    Field,
+    CellGroup,
+    Button,
+    IndexBar,
+    IndexAnchor,
+    Search,
+    VanImage,
+    Loading,
+    Tab, Tabs,
+    RadioGroup,
+    Radio 
+
+]

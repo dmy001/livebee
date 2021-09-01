@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      // "@/*": ["src/*"]
+      "@components": [
+        "src/components"
+      ],
+      "@img": [
+        "src/assets/img"
+      ],
+      "@assets": [
+        "src/assets"
+      ],
+      "@page": [
+        "src/page"
+      ],
+      "@store": [
+        "src/store"
+      ],
+      "@api": [
+        "src/api"
+      ],
+      "@utils": [
+        "src/utils"
+      ],
+      "@i18n": [
+        "src/i18n"
+      ],
+      "@native": [
+        "src/native"
+      ],
+      "@composables": [
+        "src/composables"
+      ],
+      "@src": [
+        "src"
+      ],
+    },
+    //   "target": "ES6",
+    //   "module": "commonjs",
+    //   "allowSyntheticDefaultImports": true
+  },
+  // "include": ["src/**/*"],
+  // "exclude": ["node_modules"]
+}
